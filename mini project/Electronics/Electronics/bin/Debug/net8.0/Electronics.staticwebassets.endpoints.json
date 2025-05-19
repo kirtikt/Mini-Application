@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/headphones.png",
+      "AssetFile": "images/headphones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec="
+        }
+      ]
+    },
+    {
+      "Route": "images/headphones.risfwi415m.png",
+      "AssetFile": "images/headphones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "risfwi415m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec="
+        },
+        {
+          "Name": "label",
+          "Value": "images/headphones.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop.1qinzqecgu.png",
+      "AssetFile": "images/laptop.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1qinzqecgu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M="
+        },
+        {
+          "Name": "label",
+          "Value": "images/laptop.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop.png",
+      "AssetFile": "images/laptop.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M="
+        }
+      ]
+    },
+    {
+      "Route": "images/mobile.fwxpv29njh.png",
+      "AssetFile": "images/mobile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwxpv29njh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/mobile.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/mobile.png",
+      "AssetFile": "images/mobile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/smarttv.714a4pcimh.png",
+      "AssetFile": "images/smarttv.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "714a4pcimh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/smarttv.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/smarttv.png",
+      "AssetFile": "images/smarttv.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU="
+        }
+      ]
+    }
+  ]
+}

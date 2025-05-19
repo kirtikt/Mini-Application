@@ -1,0 +1,4 @@
+wwwroot\images\headphones.png
+wwwroot\images\laptop.png
+wwwroot\images\mobile.png
+wwwroot\images\smarttv.png

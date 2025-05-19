@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/headphones.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\headphones.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3ZlZjRcbmnPpMMeF\u002BiIEOSxLb9l5DOBYLvme/0Xj7Ec="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58595"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223ZlZjRcbmnPpMMeF\u002BiIEOSxLb9l5DOBYLvme/0Xj7Ec=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/headphones.risfwi415m.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\headphones.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"risfwi415m"},{"Name":"integrity","Value":"sha256-3ZlZjRcbmnPpMMeF\u002BiIEOSxLb9l5DOBYLvme/0Xj7Ec="},{"Name":"label","Value":"_content/Electronics/images/headphones.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58595"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223ZlZjRcbmnPpMMeF\u002BiIEOSxLb9l5DOBYLvme/0Xj7Ec=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/laptop.1qinzqecgu.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\laptop.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1qinzqecgu"},{"Name":"integrity","Value":"sha256-d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M="},{"Name":"label","Value":"_content/Electronics/images/laptop.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35374"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/laptop.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\laptop.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35374"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/mobile.fwxpv29njh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mobile.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fwxpv29njh"},{"Name":"integrity","Value":"sha256-IXHHjoCXKr\u002BCMty0XwecOJQasxjlEpkNtycvqgAthSQ="},{"Name":"label","Value":"_content/Electronics/images/mobile.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41583"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022IXHHjoCXKr\u002BCMty0XwecOJQasxjlEpkNtycvqgAthSQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/mobile.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mobile.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IXHHjoCXKr\u002BCMty0XwecOJQasxjlEpkNtycvqgAthSQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41583"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022IXHHjoCXKr\u002BCMty0XwecOJQasxjlEpkNtycvqgAthSQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/smarttv.714a4pcimh.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\smarttv.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"714a4pcimh"},{"Name":"integrity","Value":"sha256-FQVJeyAjbueQfh\u002B7P74T5H3PiJbvohhyWnTzy8o99qU="},{"Name":"label","Value":"_content/Electronics/images/smarttv.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39950"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FQVJeyAjbueQfh\u002B7P74T5H3PiJbvohhyWnTzy8o99qU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Electronics/images/smarttv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\smarttv.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FQVJeyAjbueQfh\u002B7P74T5H3PiJbvohhyWnTzy8o99qU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39950"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022FQVJeyAjbueQfh\u002B7P74T5H3PiJbvohhyWnTzy8o99qU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 May 2025 16:14:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

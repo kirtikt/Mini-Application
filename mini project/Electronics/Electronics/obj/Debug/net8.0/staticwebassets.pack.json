@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\headphones.png",
+      "PackagePath": "staticwebassets\\images\\headphones.png"
+    },
+    {
+      "Id": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\laptop.png",
+      "PackagePath": "staticwebassets\\images\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\mobile.png",
+      "PackagePath": "staticwebassets\\images\\mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\smarttv.png",
+      "PackagePath": "staticwebassets\\images\\smarttv.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Electronics.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Electronics.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Electronics.props",
+      "PackagePath": "build\\Electronics.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Electronics.props",
+      "PackagePath": "buildMultiTargeting\\Electronics.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Electronics.props",
+      "PackagePath": "buildTransitive\\Electronics.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

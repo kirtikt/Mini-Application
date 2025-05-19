@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "/SvUKL9PEU/LLbKH7DJMjR0ejzGq6Gw3ACUB1HswIqg=",
+  "Source": "Electronics",
+  "BasePath": "_content/Electronics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Electronics\\wwwroot",
+      "Source": "Electronics",
+      "ContentRoot": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\",
+      "BasePath": "_content/Electronics",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\headphones.png",
+      "SourceId": "Electronics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\",
+      "BasePath": "_content/Electronics",
+      "RelativePath": "images/headphones#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "risfwi415m",
+      "Integrity": "3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\headphones.png"
+    },
+    {
+      "Identity": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\laptop.png",
+      "SourceId": "Electronics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\",
+      "BasePath": "_content/Electronics",
+      "RelativePath": "images/laptop#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1qinzqecgu",
+      "Integrity": "d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\laptop.png"
+    },
+    {
+      "Identity": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\mobile.png",
+      "SourceId": "Electronics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\",
+      "BasePath": "_content/Electronics",
+      "RelativePath": "images/mobile#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fwxpv29njh",
+      "Integrity": "IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mobile.png"
+    },
+    {
+      "Identity": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\smarttv.png",
+      "SourceId": "Electronics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\",
+      "BasePath": "_content/Electronics",
+      "RelativePath": "images/smarttv#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "714a4pcimh",
+      "Integrity": "FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\smarttv.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/headphones.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\headphones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec="
+        }
+      ]
+    },
+    {
+      "Route": "images/headphones.risfwi415m.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\headphones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "risfwi415m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/headphones.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ZlZjRcbmnPpMMeF+iIEOSxLb9l5DOBYLvme/0Xj7Ec="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop.1qinzqecgu.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\laptop.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1qinzqecgu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/laptop.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\laptop.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d7Zzcw6F4OX/HX1YX/f0aod1QYcxUBCEiO2r7AKUk/M="
+        }
+      ]
+    },
+    {
+      "Route": "images/mobile.fwxpv29njh.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\mobile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fwxpv29njh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mobile.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/mobile.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\mobile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXHHjoCXKr+CMty0XwecOJQasxjlEpkNtycvqgAthSQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/smarttv.714a4pcimh.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\smarttv.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "714a4pcimh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/smarttv.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU="
+        }
+      ]
+    },
+    {
+      "Route": "images/smarttv.png",
+      "AssetFile": "C:\\Users\\ktkhu\\OneDrive\\Desktop\\.net\\Electronics\\Electronics\\wwwroot\\images\\smarttv.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 16:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQVJeyAjbueQfh+7P74T5H3PiJbvohhyWnTzy8o99qU="
+        }
+      ]
+    }
+  ]
+}
